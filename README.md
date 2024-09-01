@@ -51,7 +51,7 @@ The analysis is conducted using Python, with Pandas as the main tool for data ma
    ```bash
    python main.py
    ```
-4. Review the analysis results and visualize key insights (if visualizations are included).
+4. Review the analysis results and insights.
 
 ## Conclusion
 
