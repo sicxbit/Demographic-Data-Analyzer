@@ -1,6 +1,3 @@
-Here's a README template for your FreeCodeCamp project, including descriptions of the tasks and guidelines:
-
----
 
 # Demographic Data Analyzer
 
@@ -55,6 +52,5 @@ The project involves analyzing a dataset to answer various demographic questions
 
 - Once all tests pass, submit your completed `demographic_data_analyzer.py` file to FreeCodeCamp for evaluation.
 
----
 
 Let me know if you'd like any additional details or modifications!
