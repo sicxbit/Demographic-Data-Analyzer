@@ -1,6 +1,3 @@
-It looks like your README reads more like instructions for completing the task rather than showcasing your personal project. Here’s an updated version of your README that frames the project as your own work while crediting FreeCodeCamp for the inspiration:
-
----
 
 # Demographic Data Analyzer
 
@@ -62,5 +59,3 @@ This project highlights the ability to extract meaningful insights from demograp
 - Project inspired by FreeCodeCamp’s Data Analysis with Python certification.
 
 ---
-
-This version frames your work as a personal project while still acknowledging FreeCodeCamp as the inspiration source. Let me know if you need further adjustments!
